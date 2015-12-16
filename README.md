@@ -1,4 +1,4 @@
-coursera-android
+Coursera Examples
 ================
 
-Source Code for Android Course Example Applications
+Have all examples used on Coursera Course for Android.
